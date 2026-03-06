@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bryan Lim
 
-I’m a **dual award Computer Science student majoring in Software Development at INTI University**.  
+I’m a **dual award Computer Science student majoring in Software Development at Malaysia INTI University X UK Conventry University**.  
 Right now, I’m focused on **front-end development**, with a clear plan to grow into a **full-stack developer over time**.
 
 I enjoy building things, breaking them, fixing them, and learning how systems really work behind the scenes.
